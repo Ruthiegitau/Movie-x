@@ -1820,6 +1820,10 @@
         "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout_fragment_item_three.xml.flat",
+        "source": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_item_three.xml"
+    },
+    {
         "merged": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
         "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/96c6a5e9e0a9b00e11067f84c3b68658/res/layout/design_navigation_item_subheader.xml"
     },
