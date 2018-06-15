@@ -1696,6 +1696,10 @@
         "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout_fragment_item_two.xml.flat",
+        "source": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_item_two.xml"
+    },
+    {
         "merged": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
         "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/color-v23/abc_tint_spinner.xml"
     },

@@ -658,6 +658,8 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -666,6 +668,7 @@
     <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
     <dimen name="compat_button_padding_vertical_material">4dp</dimen>
     <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
     <dimen name="design_bottom_navigation_active_text_size">14sp</dimen>
@@ -734,6 +737,9 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
     <dimen name="tooltip_corner_radius">2dp</dimen>
     <dimen name="tooltip_horizontal_padding">16dp</dimen>
     <dimen name="tooltip_margin">8dp</dimen>
@@ -838,9 +844,12 @@
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
