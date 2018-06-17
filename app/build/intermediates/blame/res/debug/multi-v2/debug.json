@@ -97,38 +97,6 @@
             ]
         },
         {
-            "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/values-iw/values-iw.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,308,416,500,600,714,792,870,951,1053,1157,1255,1358,1459,1559,1711,1807",
-                        "endColumns": "103,98,107,83,99,113,77,77,80,101,103,97,102,100,99,151,95,80",
-                        "endOffsets": "204,303,411,495,595,709,787,865,946,1048,1152,1250,1353,1454,1554,1706,1802,1883"
-                    }
-                },
-                {
-                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0980b9f96a01f6160543556cead24552/res/values-iw/values-iw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "102",
-                        "endOffsets": "153"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1888",
-                        "endColumns": "102",
-                        "endOffsets": "1986"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
             "map": [
                 {
@@ -156,6 +124,38 @@
                         "startOffsets": "1883",
                         "endColumns": "100",
                         "endOffsets": "1979"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,308,416,500,600,714,792,870,951,1053,1157,1255,1358,1459,1559,1711,1807",
+                        "endColumns": "103,98,107,83,99,113,77,77,80,101,103,97,102,100,99,151,95,80",
+                        "endOffsets": "204,303,411,495,595,709,787,865,946,1048,1152,1250,1353,1454,1554,1706,1802,1883"
+                    }
+                },
+                {
+                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0980b9f96a01f6160543556cead24552/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1888",
+                        "endColumns": "102",
+                        "endOffsets": "1986"
                     }
                 }
             ]
@@ -305,38 +305,6 @@
             ]
         },
         {
-            "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/values-ru/values-ru.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,220,322,434,520,625,745,824,902,982,1088,1196,1294,1403,1509,1617,1792,1892",
-                        "endColumns": "114,101,111,85,104,119,78,77,79,105,107,97,108,105,107,174,99,80",
-                        "endOffsets": "215,317,429,515,620,740,819,897,977,1083,1191,1289,1398,1504,1612,1787,1887,1968"
-                    }
-                },
-                {
-                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0980b9f96a01f6160543556cead24552/res/values-ru/values-ru.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1973",
-                        "endColumns": "100",
-                        "endOffsets": "2069"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
             "map": [
                 {
@@ -364,6 +332,38 @@
                         "startOffsets": "2010",
                         "endColumns": "100",
                         "endOffsets": "2106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,220,322,434,520,625,745,824,902,982,1088,1196,1294,1403,1509,1617,1792,1892",
+                        "endColumns": "114,101,111,85,104,119,78,77,79,105,107,97,108,105,107,174,99,80",
+                        "endOffsets": "215,317,429,515,620,740,819,897,977,1083,1191,1289,1398,1504,1612,1787,1887,1968"
+                    }
+                },
+                {
+                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0980b9f96a01f6160543556cead24552/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1973",
+                        "endColumns": "100",
+                        "endOffsets": "2069"
                     }
                 }
             ]
@@ -783,38 +783,6 @@
             ]
         },
         {
-            "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,312,423,509,617,735,816,897,981,1086,1195,1294,1400,1511,1620,1786,1884",
-                        "endColumns": "106,99,110,85,107,117,80,80,83,104,108,98,105,110,108,165,97,87",
-                        "endOffsets": "207,307,418,504,612,730,811,892,976,1081,1190,1289,1395,1506,1615,1781,1879,1967"
-                    }
-                },
-                {
-                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0980b9f96a01f6160543556cead24552/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1972",
-                        "endColumns": "100",
-                        "endOffsets": "2068"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
             "map": [
                 {
@@ -844,6 +812,38 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Pato/Desktop/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/599a2905bb404f349aae3a52077d933f/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,312,423,509,617,735,816,897,981,1086,1195,1294,1400,1511,1620,1786,1884",
+                        "endColumns": "106,99,110,85,107,117,80,80,83,104,108,98,105,110,108,165,97,87",
+                        "endOffsets": "207,307,418,504,612,730,811,892,976,1081,1190,1289,1395,1506,1615,1781,1879,1967"
+                    }
+                },
+                {
+                    "source": "/Users/Pato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0980b9f96a01f6160543556cead24552/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1972",
+                        "endColumns": "100",
+                        "endOffsets": "2068"
                     }
                 }
             ]

@@ -6,8 +6,7 @@ public class URLs {
 
     public static final String URL_REGISTER = "http://movies.safiriticketing.com/api/registration";
     public static final String URL_LOGIN = "http://movies.safiriticketing.com/api/users/login";
-    public static final String URL_TO_HIT = "//http://movies.safiriticketing.com/api/movie_events";
+    public static final String URL_TO_MOVIES = "http://movies.safiriticketing.com/api/movie_events";
 
 
 }
-
